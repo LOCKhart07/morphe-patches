@@ -4,7 +4,7 @@ Personal patches for use with [Morphe](https://morphe.software). Not affiliated 
 
 ## ❓ About
 
-- **Heads Up! – Unlock all decks** — patches `libil2cpp.so` so every deck reports as owned, no purchase needed. Native (arm64-v8a) byte patch, no dex or resource changes.
+- **Heads Up! – Unlock all decks** — patches `libil2cpp.so` so every deck reports as owned, no purchase needed. Native (arm64-v8a and armeabi-v7a) byte patch, no dex or resource changes.
 
 ### How to use these patches
 

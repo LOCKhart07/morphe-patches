@@ -1,3 +1,9 @@
+## [1.1.0-dev.1](https://github.com/LOCKhart07/morphe-patches/compare/v1.0.1...v1.1.0-dev.1) (2026-10-01)
+
+### ✨ New Features
+
+* Heads Up! – round length ([6ed0819](https://github.com/LOCKhart07/morphe-patches/commit/6ed0819ff27887b1cf13e6fe25149dd80a7c795e)), closes [#5](https://github.com/LOCKhart07/morphe-patches/issues/5)
+
 ## [1.0.1](https://github.com/LOCKhart07/morphe-patches/compare/v1.0.0...v1.0.1) (2026-10-01)
 
 ### 🐛 Bug Fixes
